@@ -10,5 +10,5 @@
     "go.formatOnSave": false,
     "go.formatTool": "goreturns",
     "go.gopath": "${workspaceRoot}",
-    "go.goroot": "C:/Go",
+    "go.goroot": "N:/Go",
 }
